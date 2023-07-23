@@ -1,0 +1,12 @@
+.notfound{
+background-image: url("./Pure-CSS-404-Error-Page.gif");
+width: 100vw;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: absolute;
+z-index: -1;
+min-height: 100vh;
+top: 0;
+z-index: 2;
+}

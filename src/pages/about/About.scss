@@ -1,0 +1,35 @@
+.about{
+    color: white;
+    text-align: center;
+    margin-top: 30%;
+}
+
+
+.header{
+    color: red;
+    font-size: 50px;
+}
+
+.text{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    background-color: #414141;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 5px solid red ;
+    margin-bottom: 1rem;
+    gap: 0.3rem;
+    align-items: start;
+    padding: 1rem;
+}
+
+.about-main{
+    background-color:#272727 ;
+    padding: 3rem;
+}

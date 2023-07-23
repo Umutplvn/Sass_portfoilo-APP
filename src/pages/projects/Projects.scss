@@ -1,0 +1,14 @@
+.projects-items{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30rem;
+    gap: 1rem;
+    background-color: black;
+    padding: 2rem;
+}
+
+.project-img{
+    width: 600px;
+}
